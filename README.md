@@ -1,3 +1,3 @@
 # testing-website-skeleton
 
-https://success-bridge-partners.company.t.dev.xdeli.com/
+https://mail2win-marketing.company.t.dev.xdeli.com/
